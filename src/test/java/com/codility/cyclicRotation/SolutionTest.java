@@ -20,7 +20,7 @@ public class SolutionTest {
         final int[] result = solution.solution(A, K);
 
         // then
-        assertThat(result).isEqualTo(new int[] {9, 7, 6, 3, 8});
+        assertThat(result).isEqualTo(new int[]{9, 7, 6, 3, 8});
     }
 
     @Test
@@ -33,6 +33,6 @@ public class SolutionTest {
         final int[] result = solution.solution(A, K);
 
         // then
-        assertThat(result).isEqualTo(new int[] {});
+        assertThat(result).isEqualTo(new int[]{});
     }
 }
