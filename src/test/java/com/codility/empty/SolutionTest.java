@@ -2,7 +2,7 @@ package com.codility.empty;
 
 import org.junit.Test;
 
-import static org.assertj.core.api.Java6Assertions.assertThat;
+import static org.assertj.core.api.Assertions.assertThat;
 
 // missing integer
 public class SolutionTest {
@@ -32,7 +32,4 @@ public class SolutionTest {
         // then
         assertThat(result).isEqualTo(input);
     }
-
-
-
 }

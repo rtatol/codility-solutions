@@ -2,8 +2,9 @@ package com.codility.missingInteger;
 
 import org.junit.Test;
 
-import static org.assertj.core.api.Java6Assertions.assertThat;
+import static org.assertj.core.api.Assertions.assertThat;
 
+// MissingInteger
 public class SolutionTest {
 
     private Solution solution = new Solution();

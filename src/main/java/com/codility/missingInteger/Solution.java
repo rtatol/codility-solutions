@@ -3,7 +3,7 @@ package com.codility.missingInteger;
 import java.util.HashSet;
 import java.util.Set;
 
-// missing integer
+// MissingInteger
 class Solution {
 
     public int solution(int[] A) {

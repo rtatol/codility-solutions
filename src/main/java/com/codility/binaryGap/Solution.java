@@ -1,6 +1,6 @@
 package com.codility.binaryGap;
 
-// binary gap
+// BinaryGap
 // https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
 class Solution {
 
